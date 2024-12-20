@@ -86,10 +86,10 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/GJg.jpg"
+    "START_IMG_URL", "https://envs.sh/7iF.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/GJg.jpg"
+    "PING_IMG_URL", "https://envs.sh/7iF.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/e576aa8308c49d945f433.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/e576aa8308c49d945f433.jpg"
